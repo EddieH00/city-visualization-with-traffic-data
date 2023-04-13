@@ -1,4 +1,7 @@
 # City Visualization of Traffic Data Project Description
+collaboration with:
+
+@dwaitbhatt @sashankvempati @poorvabedmutha31 @cstarrynight
 
 Our final project for ECE 143 @ UC San Diego focused on city visualization of traffic data. Motivated by visualizing vehicle traffic in various cities, identifying popular hotspot destinations and any potential hotspots in cities, and estimated time to get to a destination, we visualized and analyzed traffic data on that gave insight into...
 
