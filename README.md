@@ -3,7 +3,7 @@ collaboration with:
 
 @dwaitbhatt @sashankvempati @poorvabedmutha31 @cstarrynight
 
-![Alt text]([https://github.com/EddieH00/city-visualization-with-traffic-data/blob/master/pictures/san%20diego.png](https://github.com/EddieH00/city-visualization-with-traffic-data/blob/master/pictures/san_francisco.png)?raw=true "Title")
+![Alt text](https://github.com/EddieH00/city-visualization-with-traffic-data/blob/master/pictures/san_francisco.png?raw=true "San Francisco Traffic Data")
 
 Our final project for ECE 143 @ UC San Diego focused on city visualization of traffic data. Motivated by visualizing vehicle traffic in various cities, identifying popular hotspot destinations and any potential hotspots in cities, and estimated time to get to a destination, we visualized and analyzed traffic data on that gave insight into...
 
